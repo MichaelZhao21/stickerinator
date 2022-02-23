@@ -2,13 +2,13 @@
 
 A small project that I started on a whim when I got annoyed manually cropping images from online. Let's say we had a perfectly cute clipart that we wanted to put into our presentation:
 
-![Pusheen image with (eww) white background](images/pusheen.jpg)
+![Pusheen image with (eww) white background](sample-images/pusheen.jpg)
 
 I mean I can boot up good ol' Photoshop, spend a couple minutes fiddling around with the magic select tool, select the background, invert the selection, grow the selection to a couple of pixels, cut the image and paste it on a new file, crop the image, then save it with a transparency layer, **buttttt who wants to do that**??? 
 
 Well, I certainly didn't. So that's why I have this _"simple"_ script that allows you to easily remove the background, crop, and even add a white border to this cute little sticker! Here's the output of my program:
 
-![Nice pusheen sticker!](images/pusheen-after.png)
+![Nice pusheen sticker!](sample-images/pusheen-after.png)
 
 Pretty good huh! This was all done through a Google Colab notebook, and that's really the only other file in this repo *for now*. I'm hoping to be able to continue this with more features that I'll list below.
 
